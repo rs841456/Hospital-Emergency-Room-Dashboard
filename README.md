@@ -149,7 +149,7 @@ The raw dataset (`Hospital_Emergency_Room_Data.csv`) contains emergency room pat
 **Rajan Kumar**  
 Data Analytics Project | Excel Dashboard  
 📧 rs8595984@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/rajan-kumar-15519a2b8/) | [GitHub]()
+🔗 [LinkedIn](https://www.linkedin.com/in/rajan-kumar-15519a2b8/) | [GitHub](https://github.com/rs841456)
 
 ---
 
